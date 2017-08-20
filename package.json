@@ -14,7 +14,6 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "timelinejs": "^2.35.6",
     "timelinejs3": "^3.4.0",
     "vue": "^2.2.6",
     "vue-router": "^2.3.1"
