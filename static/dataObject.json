@@ -26,7 +26,7 @@
         "headline": "출생",
         "text": "<p>청주 내덕동 조그만 서점에서 태어남. </p>"
       }
-    },    
+    },
     {
       "media": {
         "url": "",
@@ -34,9 +34,27 @@
         "credit": ""
       },
       "start_date": {
-        "month": "10",
-        "day": "18",
-        "year": "1981"
+        "month": "1",
+        "year": "2005"
+      },
+      "text": {
+        "headline": "비트교육센터",
+        "text": "<p>windows 응용 프로그램 기준으로 프로그래밍의 기본기부터 실제 프로젝트까지 진행하는 교육과정.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "month": "2",
+        "year": "2007"
+      },
+      "start_date": {
+        "month": "1",
+        "year": "2009"
       },
       "text": {
         "headline": "이오닉 코리아",
@@ -50,9 +68,13 @@
         "credit": "22222"
       },
       "start_date": {
-        "month": "8",
+        "month": "4",
+        "year": "2009"
+      },
+      "start_date": {
+        "month": "5",
         "day": "30",
-        "year": "2017"
+        "year": "2014"
       },
       "text": {
         "headline": "모바일리더",
